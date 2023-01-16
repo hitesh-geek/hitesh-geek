@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hiteshtheviper
-- 👀 I’m interested in AI. 
+- 👀 I’m interested in Robotics. 
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
