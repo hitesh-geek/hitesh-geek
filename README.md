@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hitesh-geek.
+- 👋 Hi, I’m Hitesh.
 - 👀 I’m interested in Robotics. 
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c/c++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
