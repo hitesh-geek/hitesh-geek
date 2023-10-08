@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiteshtheviper
+- 👋 Hi, I’m @hitesh-geek.
 - 👀 I’m interested in Robotics. 
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
